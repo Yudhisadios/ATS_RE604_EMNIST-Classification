@@ -1,6 +1,6 @@
 # ATS_RE604_EMNIST-Classification
 
-Name : Yudhistira Prasetyo Adios / 4222201058
+## Name : Yudhistira Prasetyo Adios / 4222201058
 
 Classify digit in Extended MNIST
 
